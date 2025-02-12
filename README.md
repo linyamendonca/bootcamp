@@ -1,2 +1,2 @@
-# bootcamp-java
-Para aprender e praticar Java :)
+# bootcamp
+Para aprender e praticar :)
